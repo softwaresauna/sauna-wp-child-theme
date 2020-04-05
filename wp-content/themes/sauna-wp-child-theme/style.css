@@ -19,3 +19,11 @@ Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-
 #footer .textwidget {
 	border: none;
 }
+
+
+@media screen and (min-width: 960px) {
+	.modal-content.contact {
+		width: 550px!important;
+		transform: translateX(50%)!important;
+	}
+}

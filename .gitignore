@@ -1,0 +1,14 @@
+# Ignore everything:
+*
+
+# Except for the themes directories:
+!wp-content/
+!wp-content/themes/
+!wp-content/themes/
+!wp-content/themes/sauna-wp-child-theme/
+!wp-content/themes/sauna-wp-child-theme/*
+!wp-content/themes/sauna-wp-child-theme/*/*
+!wp-content/themes/sauna-wp-child-theme/*/*/*
+!wp-content/themes/sauna-wp-child-theme/*/*/*/*
+!.gitignore
+wp-content/themes/sauna-wp-child-theme/.DS_Store
