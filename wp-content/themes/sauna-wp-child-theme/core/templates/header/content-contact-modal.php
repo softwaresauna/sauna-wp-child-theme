@@ -5,9 +5,9 @@
     <div class="modal-content contact">
         <div class="row">
           <div class="col-sm-12 modal-content-contact">
-          <?php if (isset($redux_ThemeTek['tek-modal-title']) && $redux_ThemeTek['tek-modal-title'] != '' ) : ?>
+<!--           <?php if (isset($redux_ThemeTek['tek-modal-title']) && $redux_ThemeTek['tek-modal-title'] != '' ) : ?>
               <h2><?php echo esc_attr($redux_ThemeTek['tek-modal-title']); ?></h2>
-          <?php endif; ?>
+          <?php endif; ?> -->
           <?php if (isset($redux_ThemeTek['tek-modal-subtitle']) && $redux_ThemeTek['tek-modal-subtitle'] != '' ) : ?>
               <p><?php echo wp_kses_post($redux_ThemeTek['tek-modal-subtitle']); ?></p>
           <?php endif; ?>
