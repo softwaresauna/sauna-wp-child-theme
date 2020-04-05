@@ -27,3 +27,20 @@ Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-
 		transform: translateX(50%)!important;
 	}
 }
+
+
+#post-grid-sauna-blog .vc_gitem-zone.vc_gitem-zone-a {
+	max-height: 20em
+}
+
+#post-grid-sauna-blog .vc_grid-item-mini .vc_gitem-zone.vc_gitem-zone-c {
+	min-height: 30em;
+}
+
+#post-grid-sauna-blog .vc_grid-item-mini h4 {
+	min-height: 4em;
+}
+
+#post-grid-sauna-blog .vc_gitem-post-data-source-post_excerpt {
+	height: 12em;
+}
