@@ -14,3 +14,8 @@ Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-
 .center-icon .cb-img-area{
 	text-align: center;
 }
+
+
+#footer .textwidget {
+	border: none;
+}
