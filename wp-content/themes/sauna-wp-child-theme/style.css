@@ -64,3 +64,7 @@ Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-
 	margin-top: 5em;
 	max-width: 17em;
 }
+
+.join-the-heat-button:hover {
+	color: black!important;
+}
