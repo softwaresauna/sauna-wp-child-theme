@@ -57,3 +57,10 @@ Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-
 .ilkka {
 	padding: 0;
 }
+
+.center-modal-button {
+	position: relative;
+	right: calc(50% - 11em);
+	margin-top: 5em;
+	max-width: 17em;
+}
