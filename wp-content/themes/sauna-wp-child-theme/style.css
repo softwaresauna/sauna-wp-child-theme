@@ -49,3 +49,11 @@ Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-
 .blog-single-content .entry-image {
 	text-align: center;
 }
+
+.modal-content-contact {
+	padding: 3em;
+}
+
+.ilkka {
+	padding: 0;
+}
