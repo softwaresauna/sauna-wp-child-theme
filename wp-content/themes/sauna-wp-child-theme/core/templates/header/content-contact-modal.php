@@ -13,18 +13,14 @@
               <p>
                   <?php echo __("Have a project? Let's chat.", "sauna-modal-contact")?>
               </p>
-          <?php if (isset($redux_ThemeTek['tek-business-phone']) && $redux_ThemeTek['tek-business-phone'] != '' ) : ?>
               <div class="key-icon-box icon-default icon-left cont-left">
                   <i class="iconsmind-Phone fa"></i>
-                  <h4 class="service-heading"><a href="tel:<?php echo esc_attr($redux_ThemeTek['tek-business-phone']); ?>"><?php echo esc_attr($redux_ThemeTek['tek-business-phone']); ?></a></h4>
+                  <h4 class="service-heading"><a href="tel:+385953615202">+385 95 361 5202</a></h4>
               </div>
-          <?php endif; ?>
-          <?php if (isset($redux_ThemeTek['tek-business-email']) && $redux_ThemeTek['tek-business-email'] != '' ) : ?>
               <div class="key-icon-box icon-default icon-left cont-left">
                   <i class="iconsmind-Mail fa"></i>
-                  <h4 class="service-heading"><a href="mailto:<?php echo esc_attr($redux_ThemeTek['tek-business-email']); ?>"><?php echo esc_attr($redux_ThemeTek['tek-business-email']); ?></a></h4>
+                  <h4 class="service-heading"><a href="mailto:ic@softwaresauna.com">ic@softwaresauna.com</a></h4>
               </div>
-          <?php endif; ?>
           </div>
             <div class="col-sm-4 modal-content-contact ilkka">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/ilkka.jpg"/>
