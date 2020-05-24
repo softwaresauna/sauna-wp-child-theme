@@ -58,7 +58,7 @@ Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-
 	padding: 0;
 }
 
-.center-modal-button {
+.wpb_raw_code .wpb_wrapper .center-modal-button {
 	position: relative;
 	right: calc(50% - 11em);
 	margin-top: 5em;
