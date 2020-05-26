@@ -19,7 +19,7 @@
               </div>
               <div class="key-icon-box icon-default icon-left cont-left">
                   <i class="iconsmind-Mail fa"></i>
-                  <h4 class="service-heading"><a href="mailto:ic@softwaresauna.com">ic@softwaresauna.com</a></h4>
+                  <h4 class="service-heading"><a href="mailto:icn@softwaresauna.com">icn@softwaresauna.com</a></h4>
               </div>
           </div>
             <div class="col-sm-4 modal-content-contact ilkka">
