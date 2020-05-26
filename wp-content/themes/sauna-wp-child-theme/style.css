@@ -68,3 +68,7 @@ Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-
 .join-the-heat-button:hover {
 	color: black!important;
 }
+
+.ceo-name {
+	margin: 3em 0 0;
+}

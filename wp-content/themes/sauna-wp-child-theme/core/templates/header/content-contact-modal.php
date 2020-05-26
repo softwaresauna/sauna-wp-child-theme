@@ -21,6 +21,9 @@
                   <i class="iconsmind-Mail fa"></i>
                   <h4 class="service-heading"><a href="mailto:icn@softwaresauna.com">icn@softwaresauna.com</a></h4>
               </div>
+              <div class="ceo-name">
+                  <h4>Ilkka-Cristian Niemi (CEO)</h4>
+              </div>
           </div>
             <div class="col-sm-4 modal-content-contact ilkka">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/ilkka.jpg"/>
