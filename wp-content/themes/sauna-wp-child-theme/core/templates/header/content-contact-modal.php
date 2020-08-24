@@ -22,7 +22,7 @@
                   <h4 class="service-heading"><a href="mailto:icn@softwaresauna.com">icn@softwaresauna.com</a></h4>
               </div>
               <div class="ceo-name">
-                  <h4>Ilkka-Cristian Niemi (CEO)</h4>
+                  <h4>Ilkka-Cristian Niemi (<?php echo __("CEO", "sauna-modal-contact")?>)</h4>
               </div>
           </div>
             <div class="col-sm-4 modal-content-contact ilkka">
