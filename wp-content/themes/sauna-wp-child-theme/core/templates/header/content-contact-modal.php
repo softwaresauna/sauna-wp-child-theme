@@ -15,7 +15,7 @@
               </p>
               <div class="key-icon-box icon-default icon-left cont-left">
                   <i class="iconsmind-Phone fa"></i>
-                  <h4 class="service-heading"><a href="tel:+385953615202">+385 95 361 5202</a></h4>
+                  <h4 class="service-heading"><a href="tel:<?php echo __("+385953615202", "sauna-modal-contact")?>"><?php echo __("+385 95 3615 202", "sauna-modal-contact")?></a></h4>
               </div>
               <div class="key-icon-box icon-default icon-left cont-left">
                   <i class="iconsmind-Mail fa"></i>
