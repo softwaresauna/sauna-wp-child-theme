@@ -80,3 +80,7 @@ Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-
 .section.ourwork blockquote {
   border: none!important;;
 }
+
+.wpml-ls-item .dropdown-menu {
+  background-color: transparent;
+}
