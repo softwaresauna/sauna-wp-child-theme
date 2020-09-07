@@ -72,3 +72,11 @@ Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-
 .ceo-name {
 	margin: 3em 0 0;
 }
+
+.section.ourwork blockquote:hover {
+  box-shadow: none!important;;
+}
+
+.section.ourwork blockquote {
+  border: none!important;;
+}
