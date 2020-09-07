@@ -82,5 +82,5 @@ Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-
 }
 
 .wpml-ls-item .dropdown-menu {
-  background-color: transparent;
+  background-color: transparent !important;
 }
