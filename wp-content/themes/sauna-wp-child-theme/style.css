@@ -74,11 +74,11 @@ Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-
 }
 
 .section.ourwork blockquote:hover {
-  box-shadow: none!important;;
+  box-shadow: none!important;
 }
 
 .section.ourwork blockquote {
-  border: none!important;;
+  border: none!important;
 }
 
 .wpml-ls-item .dropdown-menu {
